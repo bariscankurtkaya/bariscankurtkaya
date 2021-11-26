@@ -7,7 +7,7 @@
  
 I am Bariscan Kurtkaya.
 
-I work as a Full-Stack Developer at Ollang Media Technologies. I did an internship in the field of artificial intelligence on R&D at Akım Metal company. In addition, I will go to Universita Degli Studi Di Milano with the artificial intelligence laboratory acceptance I received from Italy in the summer of 2022. I also took part in the artificial intelligence department of the robot team named Cas-Marine and we won 1 3rd place in Turkey, 1 3rd place in Teknofest and 1 4th place in the Undersecretariat of Defense Industry Competition. In addition, my project in the field of image processing in the academic field with Tübitak 2209-A has been accepted and I am writing a conference article in this field. Apart from that, I am a Core-Team member of the school's Google Developer Student Club.
+I work as a Full-Stack Developer at Ollang Media Technologies. I did an internship in the field of artificial intelligence on R&D at Akım Metal company. In addition, I will go to Universita Degli Studi Di Milano with the artificial intelligence laboratory acceptance I received from Italy in the summer of 2022. I also took part in the artificial intelligence department of the robot team named Cas-Marine and we won 3rd place in Turkey, 3rd place in Teknofest and 4th place in the Undersecretariat of Defense Industry Competition. In addition, my project in the field of image processing in the academic field with Tübitak 2209-A has been accepted and I am writing a conference article in this field. Apart from that, I am a Core-Team member of the school's Google Developer Student Club.
 
 
 ## 📈 Github Stats
