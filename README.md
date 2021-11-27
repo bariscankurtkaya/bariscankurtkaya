@@ -30,7 +30,7 @@ Talk to me about
 - Mathematics **OMG I LOVE IT SO MUCH**
 - Physics **I LOVE IT TOO** :P
 - CPU and GPU
-- and **every** little excited technical information.
+- and **every** little excited tech || non-tech information.
 
 ## Hello World!! 
 - Actually I didn't start it yet but I will upload some videos about what I learned on Youtube and Medium. So excited!!!
