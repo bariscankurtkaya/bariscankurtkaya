@@ -15,20 +15,20 @@ I like Image Processing, Neural Language Processing, Artificial Intelligence, Mi
 
 I want to go Masters and Doctorate about Computer Science and my biggest dream and target is getting Turing or Nobel Prize. Ssshh this will be our secret :P.
 
-## 👯 Communities
+## Communities
 - YTU Google DSC Core Team Member (2021- ..)
 - YTU IEEE CASMarine Software Developer Team Member (2017- 2019)
 - Volt Floyd (Running Crew)
 - YTU SKYLab AI R&D Team Member (2021 - ..)
 - YTU MedaLab Part-Time Student Assistant (2021 - ..)
 
-## ⚡ Technologies
+## Technologies
 Talk to me about
 - FrontEnd Development
 - Backend Development
 - Artificial Intelligence (Computer Vision, NLP)
 - Mathematics **OMG I LOVE IT SO MUCH**
-- PHYSICS **IT IS TOO** :P
+- Physics **I LOVE IT TOO** :P
 - CPU and GPU
 - and **every** little excited technical information.
 
