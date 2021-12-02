@@ -26,9 +26,8 @@ Talk to me about
 - Backend Development
 - Artificial Intelligence (Computer Vision, NLP)
 - Cloud Technologies
-- Mathematics **OMG I LOVE IT SO MUCH**
-- Physics **I LOVE IT TOO** :P
-- CPU and GPU
+- Mathematics and Physics
+- CPU, MicroProcessors and GPU
 - and **every** little excited tech || non-tech information.
 
 ## Hello World!! 
