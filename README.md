@@ -14,6 +14,7 @@ I like Image Processing, Neural Language Processing, Artificial Intelligence, Mi
 I want to go Masters and Doctorate about Computer Science and my biggest dream and target is getting Turing or Nobel Prize. Ssshh this will be our secret :P.
 
 ## Communities
+- Microsoft Student Ambassador (2021- ..)
 - YTU Google DSC Core Team Member (2021- ..)
 - YTU IEEE CASMarine Software Developer Team Member (2017- 2019)
 - Volt Floyd (Running Crew)
