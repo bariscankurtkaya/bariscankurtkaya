@@ -9,7 +9,7 @@ I work as a Full-Stack Developer at Ollang Media Technologies. I did an internsh
 
 I'm loving to coding with Python, Javascript,  C and C++. (Little bit assembly but It is mine guilty pleasure :))
 
-I like Image Processing, Neural Language Processing, Artificial Intelligence, MicroProcessors, Parallel Computing and reading books & papers about them.
+I like Image Processing, Natural Language Processing, Artificial Intelligence, MicroProcessors, Parallel Computing, Web Developing and reading books & papers about them.
 
 I want to go Masters and Doctorate about Computer Science and my biggest dream and target is getting Turing or Nobel Prize. Ssshh this will be our secret :P.
 
@@ -33,7 +33,7 @@ Talk to me about
 
 ## Hello World!! 
 - Actually I didn't start it yet but I will upload some videos about what I learned on Youtube and Medium. So excited!!!
-- Just for now you can communicate me on LinkedIn or E-mail.
+- Just for now you can communicate with me on LinkedIn or E-mail.
 
 
 
@@ -41,8 +41,5 @@ Talk to me about
 ## 📈 Github Stats
 
 <a href="https://github.com/bariscankurtkaya/bariscankurtkaya">
- <img alt="Barışcan Kurtkaya's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bariscankurtkaya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="420px"/>
+ <img alt="Barışcan Kurtkaya's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bariscankurtkaya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="840px"/>
 </a>
-<a href="https://github.com/bariscankurtkaya/bariscankurtkaya">
- <img alt="Barışcan Kurtkaya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bariscankurtkaya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="420px"/>
- </a>
