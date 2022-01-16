@@ -7,7 +7,7 @@ I am Bariscan Kurtkaya.
 
 I work as a Full-Stack Developer at Ollang Media Technologies. I did an internship in the field of artificial intelligence in R&D at Akım Metal company. In addition, I will go to Universita Degli Studi Di Milano with the artificial intelligence laboratory acceptance I received from Italy in the summer of 2022. I also took part in the artificial intelligence department of the robot team named Cas-Marine and we won 3rd place in Turkey, 3rd place in Teknofest and 4th place in the Undersecretariat of Defense Industry Competition. In addition, my project in the field of image processing in the academic field with Tübitak 2209-A has been accepted and I am writing a paper about driver assistance system with image processing and deep learning area. Apart from that, I am a Core-Team member of the school's Google Developer Student Club and Microsoft Student Ambassador.
 
-I'm loving to coding with Python, Javascript,  C and C++. (Little bit assembly but It is mine guilty pleasure :))
+I'm loving to coding with Python, Javascript,  C and C++. (Little bit assembly but It is my guilty pleasure :))
 
 I like Image Processing, Natural Language Processing, Artificial Intelligence, MicroProcessors, Parallel Computing, Web Developing and reading books & papers about them.
 
