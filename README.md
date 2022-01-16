@@ -17,9 +17,8 @@ I want to go Masters and Doctorate about Computer Science and my biggest dream a
 - Microsoft Student Ambassador (2021- ..)
 - YTU Google DSC Core Team Member (2021- ..)
 - YTU IEEE CASMarine Software Developer Team Member (2017- 2019)
-- Volt Floyd (Running Crew)
 - YTU SKYLab AI R&D Team Member (2021 - ..)
-- YTU MedaLab Part-Time Student Assistant (2021 - ..)
+- YTU MedaLab Part-Time Student Research Assistant (2021 - ..)
 
 ## Technologies
 Talk to me about
