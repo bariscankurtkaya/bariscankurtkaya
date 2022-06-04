@@ -5,35 +5,31 @@
  
 I am Bariscan Kurtkaya.
 
-I work as a Full-Stack Developer at Ollang Media Technologies. I did an internship in the field of artificial intelligence in R&D at Akım Metal company. In addition, I will go to Universita Degli Studi Di Milano with the artificial intelligence laboratory acceptance I received from Italy in the summer of 2022. I also took part in the artificial intelligence department of the robot team named Cas-Marine and we won 3rd place in Turkey, 3rd place in Teknofest and 4th place in the Undersecretariat of Defense Industry Competition. In addition, my project in the field of image processing in the academic field with Tübitak 2209-A has been accepted and I am writing a paper about driver assistance system with image processing and deep learning area. Apart from that, I am a Core-Team member of the school's Google Developer Student Club and Microsoft Student Ambassador.
+I work as a Research Engineer in Ollang Media Technologies. I'm interested in voice cloning, deep learning architectures, signal processings and computer vision. I did several projects about artificial intelligence and currently working on some articles and papers. I love to code in C/C++ and Python but I know more than 5 languages and did so many projects in different fields (AI (CV, NLP etc.), Backend, FrontEnd, DevOps, Robotics etc.).
 
-I'm loving to coding with Python, Javascript, Typescript,  C and C++. (Little bit assembly but It is my guilty pleasure :))
-
-I like Image Processing, Natural Language Processing, Artificial Intelligence, MicroProcessors, Parallel Computing, Web Developing and reading books & papers about them.
-
-I want to go Masters and Doctorate about Computer Science and my biggest dream and target is getting Turing or Nobel Prize. Ssshh this will be our secret :P.
+I want to get a Ph.D. in the future and I love to be a contributer to open-source projects.
 
 ## Communities
-- Microsoft Student Ambassador (2021- ..)
-- YTU Google DSC Core Team Member (2021- ..)
+- Microsoft Student Ambassador (2021- 2022)
+- YTU Google DSC Core Team Member (2021- 2022)
 - YTU IEEE CASMarine Software Developer Team Member (2017- 2019)
 - YTU SKYLab AI R&D Team Member (2021 - ..)
-- YTU MedaLab Part-Time Student Research Assistant (2021 - ..)
+
+## Research Labs and Companies
+- Ollang Media Technologies - [Ollang Lab](https://ollang.com/) - Research Engineer (2021 - ...)
+- Università degli Studi di Milano Statale - [AIS Lab](https://ais-lab.di.unimi.it/index.html) - Undergraduate Student Intern (2022 Summer)
+- Yıldız Technical University - [MEDA Lab](https://ehm.yildiz.edu.tr/en/ehm/5/Laboratories/179) - Student Research Assistant (2021 - 2022)
 
 ## Technologies
 Talk to me about
-- FrontEnd Development
-- Backend Development
-- Artificial Intelligence (Computer Vision, NLP)
-- Cloud Technologies
+- Artificial Intelligence and Signal Processing (Computer Vision, NLP, Voice Clonning etc.)
 - Mathematics and Physics
-- CPU, MicroProcessors and GPU
+- CPU and GPU's
 - and **every** little excited tech || non-tech information.
 
-## Hello World!! 
+## Welcome to My World!
 - Actually I didn't start it yet but I will upload some videos about what I learned on Youtube and Medium. So excited!!!
 - Just for now you can communicate with me on LinkedIn or E-mail.
-
 
 
 
