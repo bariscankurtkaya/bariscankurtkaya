@@ -20,6 +20,10 @@ I want to get a Ph.D. in the future and I love to be a contributer to open-sourc
 - Università degli Studi di Milano Statale - [AIS Lab](https://ais-lab.di.unimi.it/index.html) - Undergraduate Student Intern (2022 Summer)
 - Yıldız Technical University - [MEDA Lab](https://ehm.yildiz.edu.tr/en/ehm/5/Laboratories/179) - Student Research Assistant (2021 - 2022)
 
+## Awards
+- Undersecretariat of Defense Industry Underwater Systems 4th Place (2018)
+- Teknofest 2018 Underwater Systems 3rd Place (2018)
+
 ## Technologies
 Talk to me about
 - Artificial Intelligence and Signal Processing (Computer Vision, NLP, Voice Clonning etc.)
