@@ -7,7 +7,7 @@ I am Bariscan Kurtkaya.
 
 I work as a Research Engineer in Ollang Media Technologies. I'm interested in voice cloning, deep learning architectures, signal processings and computer vision. I did several projects about artificial intelligence and currently working on some articles and papers. I love to code with C/C++ and Python but I know more than 5 languages and did so many projects in different fields (AI (CV, NLP etc.), Backend, FrontEnd, DevOps, Robotics etc.).
 
-I want to get a Ph.D. in the future and I love being a contributer to open-source projects.
+I want to get a Ph.D. and build new unicorns in the future and I love being a contributer to open-source projects.
 
 ## Communities
 - Microsoft Student Ambassador (2021- 2022)
