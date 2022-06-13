@@ -28,7 +28,8 @@ I want to get a Ph.D. and build new unicorns in the future and I love being a co
 Talk to me about
 - Artificial Intelligence and Signal Processing (Computer Vision, NLP, Voice Clonning etc.)
 - Mathematics and Physics
-- CPU and GPU's
+- CPU, GPU and Microprocessors (Hardware and Software)
+- Algorithms (Search Engine, Dijkstra etc.)
 - and **every** little excited tech || non-tech information.
 
 ## Welcome to My World!
