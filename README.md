@@ -10,6 +10,7 @@ I work as a Research Engineer in Ollang Media Technologies. I'm interested in 3d
 I want to get a Ph.D. and build new unicorns in the future and I love being a contributer to open-source projects.
 
 ## Communities
+- Hugging Face Student Ambassador (2022 - ..)
 - Microsoft Student Ambassador (2021- 2022)
 - YTU Google DSC Core Team Member (2021- 2022)
 - YTU IEEE CASMarine Software Developer Team Member (2017- 2019)
