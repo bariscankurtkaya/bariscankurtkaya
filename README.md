@@ -7,7 +7,7 @@ I am Bariscan Kurtkaya.
 
 I work as a Research Engineer in Ollang Media Technologies. I'm interested in 3d computer graphics, deep learning architectures, signal processings, computer vision and voice cloning. I did several projects about artificial intelligence and currently working on some articles and papers. I love to code with C/C++ and Python but I know more than 5 languages and did so many projects in different fields (AI (CV, NLP, CNN, RNN etc.), Backend (SpringBoot, LoopBack4, NestJs, Go etc.), FrontEnd (Angular), DevOps (Docker, AWS, Azure, RabbitMQ etc.), Robotics (STM32F4, Raspberry etc.) etc.).
 
-I want to get a Ph.D. from Stanford University about Computer Vision or NLP and build new unicorns in the future and I love being a contributer to open-source projects.
+I want to get a Ph.D. from Stanford University in Computer Vision or NLP and build new unicorns in the future and I love being a contributor to open-source projects. Also wants to win a Turing Award.
 
 ## Communities
 - Hugging Face Student Ambassador (2022 - ...)
