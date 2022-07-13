@@ -4,11 +4,13 @@
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bariscankurtkaya@gmail.com)
  
 
-Hi! My name is Barışcan Kurtkaya. I'm a 4th-year bachelor's student at Yıldız Technical University. Currently, I'm an Erasmus student at Università degli Studi di Milano. Also, I work as a Research Engineer in Ollang Media Technologies. I'm interested in deep learning architectures, 3d computer graphics, computer vision, robotics, and NLP. I worked on semi-autonomous underwater vehicles, driver assistance systems with computer vision, and unmasked person detection systems with deep learning before. I'm almost finished with the driver assistance system with computer vision paper and I will send it to the journal as an article. Also, I'm learning Capsule Network architecture to understand deep learning more.
+Hi! My name is Barışcan Kurtkaya. I am one of the two Hugging Face Ambassadors in Turkey. I'm a 4th-year bachelor's student at Yıldız Technical University. Currently, I'm an Visiting Student at Università degli Studi di Milano. I want to work on Explained AI, Deep Learning Architectures and Optimizing. I worked on semi-autonomous underwater vehicles, driver assistance systems with computer vision, and unmasked person detection systems with deep learning before. I'm almost finished with the driver assistance system with computer vision paper and I will send it to the journal as an article. Also, I'm learning Capsule Network architecture to understand deep learning more.
 
 I love to code with C/C++ and Python but I know more than 5 languages and did so many projects in different fields (AI (CV, NLP, CNN, RNN etc.), Backend (SpringBoot, LoopBack4, NestJs, Go etc.), FrontEnd (Angular), DevOps (Docker, AWS, Azure, RabbitMQ etc.), Robotics (STM32F4, Raspberry etc.) etc.).
 
-I want to get a Ph.D. from Stanford University in Computer Vision or NLP and build new unicorns in the future and I love being a contributor to open-source projects. Also wants to win a Turing Award.
+I want to get a Ph.D. from (Stanford || MIT) in Computer Vision and Explainability. Also, I wanted to win Turing Award and want to change and develop our perspective on artificial intelligence.
+
+I love being a contributor to open-source projects, too.
 
 ## Communities
 - Hugging Face Student Ambassador (2022 - ...)
@@ -18,7 +20,7 @@ I want to get a Ph.D. from Stanford University in Computer Vision or NLP and bui
 - YTU IEEE CASMarine Software Developer Team Member (2017- 2019)
 
 ## Research Labs and Companies
-- Ollang Media Technologies - [Ollang Lab](https://ollang.com/) - Research Engineer (2021 - ...)
+- Ollang Media Technologies - [Ollang Lab](https://ollang.com/) - Research Engineer (2021 - 2022)
 - Università degli Studi di Milano Statale - [AIS Lab](https://ais-lab.di.unimi.it/index.html) - Undergraduate Student Intern (2022 Summer)
 - Yıldız Technical University - [MEDA Lab](https://ehm.yildiz.edu.tr/en/ehm/5/Laboratories/179) - Student Research Assistant (2021 - 2022)
 
@@ -28,7 +30,7 @@ I want to get a Ph.D. from Stanford University in Computer Vision or NLP and bui
 
 ## Technologies
 Talk to me about
-- Artificial Intelligence and Signal Processing (Computer Vision, NLP, Voice Clonning etc.)
+- Artificial Intelligence and Signal Processing (Computer Vision, CNN, Capsule Network, Object Detection etc.)
 - Mathematics and Physics
 - CPU, GPU and Microprocessors (Hardware and Software)
 - Algorithms (Search Engine, Dijkstra etc.)
