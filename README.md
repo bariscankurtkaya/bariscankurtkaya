@@ -25,6 +25,8 @@ Keep aiming for the moon, even if you miss you'll land among the stars.
 - Yıldız Technical University - [MEDA Lab](https://ehm.yildiz.edu.tr/en/ehm/5/Laboratories/179) - Student Research Assistant (2021 - 2022)
 
 ## Awards
+- MateRov Turkey 2019 Underwater Systems 1st Place (2019)
+- MateRov Turkey 2018 Underwater Systems 3rd Place (2018)
 - Teknofest 2018 Underwater Systems 3rd Place (2018)
 - Undersecretariat of Defense Industry Underwater Systems 4th Place (2018)
 
