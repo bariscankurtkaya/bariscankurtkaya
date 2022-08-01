@@ -10,7 +10,7 @@ I love to code with C/C++ and Python but I know more than 5 languages and did so
 
 I want to pursue a Ph.D. in Computer Vision, Optimization and Explainability. Also, I wanted to win Turing Award and want to change and develop our perspective on artificial intelligence.
 
-I love being a contributor to open-source projects, too.
+Keep aiming for the moon, even if you miss you'll land among the stars.
 
 ## Communities
 - Hugging Face Student Ambassador (2022 - ...)
