@@ -8,7 +8,7 @@ Hi! My name is Barışcan Kurtkaya. I am one of the two Hugging Face Ambassadors
 
 I love to code with C/C++ and Python but I know more than 5 languages and did so many projects in different fields (AI (CV, NLP, CNN, RNN etc.), Backend (SpringBoot, LoopBack4, NestJs, Go etc.), FrontEnd (Angular), DevOps (Docker, AWS, Azure, RabbitMQ etc.), Robotics (STM32F4, Raspberry etc.) etc.).
 
-I want to get a Ph.D. from MIT in Computer Vision and Explainability. Also, I wanted to win Turing Award and want to change and develop our perspective on artificial intelligence.
+I want to pursue a Ph.D. in Computer Vision, Optimization and Explainability. Also, I wanted to win Turing Award and want to change and develop our perspective on artificial intelligence.
 
 I love being a contributor to open-source projects, too.
 
