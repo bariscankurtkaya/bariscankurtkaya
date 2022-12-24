@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge)](https://bariscankurtkaya.github.io/) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge)]([https://www.linkedin.com/in/bar%C4%B1%C5%9Fcan-kurtkaya/]](https://www.linkedin.com/in/bariscankurtkaya/)
+[![Website](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge)](https://bariscankurtkaya.github.io/) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/bariscankurtkaya/)
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bariscankurtkaya@gmail.com)
  
 
