@@ -18,7 +18,7 @@ I am one of the two Hugging Face Ambassadors and the Microsoft Ambassador in Tur
 - Undersecretariat of Defense Industry Underwater Systems 4th Place (2018)
 
 ## Communities
-- Hugging Face Student Ambassador (2022 - ...)
+- Hugging Face Student Ambassador (2022 - 2023)
 - Microsoft Student Ambassador (2021- 2022)
 - YTU Google DSC Core Team Member (2021- 2022)
 - YTU SKYLab AI R&D Team Member (2021 - ...)
