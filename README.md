@@ -11,6 +11,7 @@ I am one of the two Hugging Face Ambassadors and the Microsoft Ambassador in Tur
 - Yıldız Technical University - [MEDA Lab](https://ehm.yildiz.edu.tr/en/ehm/5/Laboratories/179) - Undergraduate Research Assistant (2021 - 2022)
 
 ## Awards
+- High honor from Yıldız Technical University (2023)
 - MateRov Turkey 2019 Underwater Systems 1st Place (2019)
 - MateRov Turkey 2018 Underwater Systems 3rd Place (2018)
 - Teknofest 2018 Underwater Systems 3rd Place (2018)
