@@ -21,5 +21,5 @@ I am one of the two Hugging Face Ambassadors and the Microsoft Ambassador in Tur
 - Hugging Face Student Ambassador (2022 - 2023)
 - Microsoft Student Ambassador (2021- 2022)
 - YTU Google DSC Core Team Member (2021- 2022)
-- YTU SKYLab AI R&D Team Member (2021 - ...)
+- YTU SKYLab AI R&D Team Member (2021 - 2023)
 - YTU IEEE CASMarine Software Developer Team Member (2017- 2019)
