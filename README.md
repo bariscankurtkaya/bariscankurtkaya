@@ -5,7 +5,7 @@
 I am one of the two Hugging Face Ambassadors and the Microsoft Ambassador in Turkey. My ultimate goal encompasses two areas. First, I would like to develop solutions to computer vision problems by enabling smart machine learning systems, being able to learn as humans with minimal/no supervision. Second, I want to make these black-boxes more transparent. Therefore, I intend to focus on the area of beyond supervised learning, wishing to change and develop our perspective on artificial intelligence.
 
 ## Research Labs and Companies
-- Princeton University - [Dr. Tansu Daylan](https://web.astro.princeton.edu/people/tansu-daylan) - Undergraduate Research Assistant(2022-2023)
+- Princeton University - [Dr. Tansu Daylan](https://web.astro.princeton.edu/people/tansu-daylan) - Undergraduate Research Assistant (2022-2023)
 - Università degli Studi di Milano Statale - [AIS Lab](https://ais-lab.di.unimi.it/index.html) - Undergraduate Research Assistant (2022 Summer)
 - Ollang Media Technologies - [Ollang Lab](https://ollang.com/) - Research Engineer (2021 - 2022)
 - Yıldız Technical University - [MEDA Lab](https://ehm.yildiz.edu.tr/en/ehm/5/Laboratories/179) - Undergraduate Research Assistant (2021 - 2022)
