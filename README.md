@@ -2,7 +2,7 @@
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bariscankurtkaya@gmail.com)
  
 
-I am one of the two Hugging Face Ambassadors and the Microsoft Ambassador in Turkey. My ultimate goal encompasses two areas. First, I would like to develop solutions to computer vision problems by enabling smart machine learning systems, being able to learn as humans with minimal/no supervision. Second, I want to make these black-boxes more transparent. Therefore, I intend to focus on the area of beyond supervised learning, wishing to change and develop our perspective on artificial intelligence.
+I was an ambassador for both Hugging Face and Microsoft in Turkey, I am dedicated to achieving two key objectives. My primary goal is to create innovative solutions for computer vision challenges by enabling machine learning systems to learn with minimal or no supervision, mirroring the way humans learn. Additionally, I am committed to increasing transparency in these black-box systems. To achieve this, I plan to shift my focus towards areas beyond supervised learning, with the aim of evolving our approach to artificial intelligence.
 
 ## Research Labs and Companies
 - Princeton University - [Dr. Tansu Daylan](https://web.astro.princeton.edu/people/tansu-daylan) - Undergraduate Research Assistant (2022-2023)
