@@ -5,7 +5,7 @@
 I was an ambassador for both Hugging Face and Microsoft in Turkey, I am dedicated to achieving two key objectives. My primary goal is to create innovative solutions for computer vision challenges by enabling machine learning systems to learn with minimal or no supervision, mirroring the way humans learn. Additionally, I am committed to increasing transparency in these black-box systems. To achieve this, I plan to shift my focus towards areas beyond supervised learning, with the aim of evolving our approach to artificial intelligence.
 
 ## Research Labs and Companies
-- Koç University - [KUIS AI LAB] (https://ai.ku.edu.tr/) - Research Assistant (2023 - Still)
+- Koç University - [KUIS AI LAB](https://ai.ku.edu.tr/) - Research Assistant (2023 - Still)
 - Princeton University/ Washington University St.Louis - [Dr. Tansu Daylan](https://web.astro.princeton.edu/people/tansu-daylan) - Undergraduate Researcher (2022- Still)
 - Università degli Studi di Milano Statale - [AIS Lab](https://ais-lab.di.unimi.it/index.html) - Visiting Research Intern (2022 Summer)
 - Ollang Media Technologies - [Ollang Lab](https://ollang.com/) - Research Engineer (2021 - 2022)
