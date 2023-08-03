@@ -6,7 +6,7 @@ I was an ambassador for both Hugging Face and Microsoft in Turkey, I am dedicate
 
 ## Research Labs and Companies
 - Koç University - [KUIS AI LAB](https://ai.ku.edu.tr/) - Research Assistant (2023 - Still)
-- Princeton University/ Washington University St.Louis - [Dr. Tansu Daylan](https://web.astro.princeton.edu/people/tansu-daylan) - Undergraduate Researcher (2022- Still)
+- Princeton University/ Washington University St.Louis - [Dr. Tansu Daylan](https://web.astro.princeton.edu/people/tansu-daylan) - Researcher (2022- Still)
 - Università degli Studi di Milano Statale - [AIS Lab](https://ais-lab.di.unimi.it/index.html) - Visiting Research Intern (2022 Summer)
 - Ollang Media Technologies - [Ollang Lab](https://ollang.com/) - Research Engineer (2021 - 2022)
 - Yıldız Technical University - [MEDA Lab](https://ehm.yildiz.edu.tr/en/ehm/5/Laboratories/179) - Undergraduate Research Assistant (2021 - 2022)
