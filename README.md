@@ -2,7 +2,7 @@
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bariscankurtkaya@gmail.com)
  
 
-I was an ambassador for both Hugging Face and Microsoft in Turkey, I am dedicated to achieving two key objectives. My primary goal is to create innovative solutions for computer vision challenges by enabling machine learning systems to learn with minimal or no supervision, mirroring the way humans learn. Additionally, I am committed to increasing transparency in these black-box systems. To achieve this, I plan to shift my focus towards areas beyond supervised learning, with the aim of evolving our approach to artificial intelligence.
+I am an ambitious deep learning researcher, eager to explore the capabilities of generative deep learning models and self-supervised methods. My specific interest lies in generative models, particularly in the realm of 2D and 3D computer vision. Currently, I am pursuing graduate studies at Koc University, focusing on video editing using diffusion models. Additionally, I proudly serve as one of the two ambassadors of Hugging Face and Microsoft in Turkey. Beyond my academic pursuits, I am also a professional athlete, firmly believing in the collective strength of teamwork. This ethos profoundly influences my approach to research and collaboration, and I am actively seeking opportunities to contribute to interdisciplinary teams.
 
 ## Research Labs and Companies
 - Virginia Tech - [GemLabVT](https://pinguar.org/) - Visiting Researcher (2023 Fall - Still)
