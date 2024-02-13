@@ -8,7 +8,7 @@ I am an ambitious deep learning researcher, eager to explore the capabilities of
 - Virginia Tech - [GemLabVT](https://pinguar.org/) - Visiting Researcher (2023 Fall - Still)
 - Georgia Institute of Technology - [Rehg Lab](https://rehg.org/) - Researcher (2023 Fall)
 - Koç University - [KUIS AI LAB](https://ai.ku.edu.tr/) - Graduate Research Assistant (2023 Fall - Still)
-- Princeton University / Washington University St.Louis - [Dr. Tansu Daylan](https://web.astro.princeton.edu/people/tansu-daylan)/[Astromusers](https://sites.wustl.edu/astromusers/) - Researcher (2022 Fall - 2024 Spring)
+- Princeton University / Washington University St.Louis - [Astromusers](https://sites.wustl.edu/astromusers/) - Researcher (2022 Fall - 2024 Spring)
 - Università degli Studi di Milano Statale - [AIS Lab](https://ais-lab.di.unimi.it/index.html) - Visiting Research Intern (2022 Summer)
 - Ollang Media Technologies - [Ollang Lab](https://ollang.com/) - Research Engineer (2021 - 2022)
 - Yıldız Technical University - [MEDA Lab](https://ehm.yildiz.edu.tr/en/ehm/5/Laboratories/179) - Undergraduate Research Assistant (2021 - 2022)
