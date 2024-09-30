@@ -5,7 +5,8 @@
 I am an ambitious deep learning researcher, eager to explore the capabilities of generative deep learning models and self-supervised methods. My specific interest lies in generative models, particularly in the realm of 2D and 3D computer vision. Currently, I am pursuing graduate studies at Koc University, focusing on video editing using diffusion models. Additionally, I proudly serve as one of the two ambassadors of Hugging Face and Microsoft in Turkey. Beyond my academic pursuits, I am also a professional athlete, firmly believing in the collective strength of teamwork. This ethos profoundly influences my approach to research and collaboration, and I am actively seeking opportunities to contribute to interdisciplinary teams.
 
 ## Research Labs and Companies
-- Virginia Tech - [GemLabVT](https://pinguar.org/) - Visiting Researcher (2023 Fall - Still)
+- Stanford University - Visiting Student Researcher (2024 Fall - Still)
+- Virginia Tech - [GemLabVT](https://pinguar.org/) - Visiting Researcher (2023 Fall - 2024 Spring)
 - Georgia Institute of Technology - [Rehg Lab](https://rehg.org/) - Researcher (2023 Fall)
 - Koç University - [KUIS AI LAB](https://ai.ku.edu.tr/) - Graduate Research Assistant (2023 Fall - Still)
 - Princeton University / Washington University St.Louis - [Astromusers](https://sites.wustl.edu/astromusers/) - Researcher (2022 Fall - 2024 Spring)
