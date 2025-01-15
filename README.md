@@ -4,9 +4,9 @@
 
 ## Research Labs and Companies
 - Stanford University - Visiting Student Researcher (2024 Fall - Still)
+- Washington University St.Louis / Princeton University - [Astromusers](https://sites.wustl.edu/astromusers/) - Researcher (2023 Spring - 2024 Still)
 - Virginia Tech - [GemLabVT](https://pinguar.org/) - Visiting Researcher (2023 Fall - 2024 Spring)
 - Koç University - [KUIS AI LAB](https://ai.ku.edu.tr/) - Graduate Research Assistant (2023 Fall - Still)
-- Princeton University / Washington University St.Louis - [Astromusers](https://sites.wustl.edu/astromusers/) - Researcher (2022 Fall - 2024 Spring)
 - Università degli Studi di Milano Statale - [AIS Lab](https://ais-lab.di.unimi.it/index.html) - Visiting Research Intern (2022 Summer)
 - Ollang Media Technologies - [Ollang Lab](https://ollang.com/) - Research Engineer (2021 - 2022)
 - Yıldız Technical University - [MEDA Lab](https://ehm.yildiz.edu.tr/en/ehm/5/Laboratories/179) - Undergraduate Research Assistant (2021 - 2022)
