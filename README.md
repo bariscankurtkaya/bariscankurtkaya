@@ -2,27 +2,12 @@
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bariscankurtkaya@gmail.com)
  
 
-## Research Labs and Companies
-- Stanford University - Visiting Student Researcher (2024 Fall - Still)
-- Washington University St.Louis / Princeton University - [Astromusers](https://sites.wustl.edu/astromusers/) - Researcher (2023 Spring - Still)
-- Virginia Tech - [GemLabVT](https://pinguar.org/) - Visiting Researcher (2023 Fall - 2024 Spring)
-- Koç University - [KUIS AI LAB](https://ai.ku.edu.tr/) - Graduate Research Assistant (2023 Fall - Still)
-- Università degli Studi di Milano Statale - [AIS Lab](https://ais-lab.di.unimi.it/index.html) - Visiting Research Intern (2022 Summer)
-- Ollang Media Technologies - [Ollang Lab](https://ollang.com/) - Research Engineer (2021 - 2022)
-- Yıldız Technical University - [MEDA Lab](https://ehm.yildiz.edu.tr/en/ehm/5/Laboratories/179) - Undergraduate Research Assistant (2021 - 2022)
+I am a prospective PhD student in Electrical and Computer Engineering at the University of California, Santa Barbara, where I will be advised by Prof. Nina Miolane as a member of the Geometric Intelligence Lab.
 
-## Awards
-- KUIS AI Fellowship (2023-2025)
-- High honor from Yıldız Technical University (2023)
-- MateRov Turkey 2019 Underwater Systems 1st Place (2019)
-- MateRov Turkey 2018 Underwater Systems 3rd Place (2018)
-- Teknofest 2018 Underwater Systems 3rd Place (2018)
-- Undersecretariat of Defense Industry Underwater Systems 4th Place (2018)
+I am currently a KUIS AI Fellow and a second-year MSc student in Computer Science and Engineering at Koç University, where I am fortunate to be advised by Prof. Yücel Yemez. Alongside my graduate studies, I have also worked as a visiting scholar at Stanford University, contributing to research in computational neuroscience and memory dynamics within the Schnitzer Group under the advisement of Prof. Mark Schnitzer and Dr. Fatih Dinç.
 
-## Communities
-- Hugging Face Student Ambassador 
-- Microsoft Student Ambassador
-- Nike Sponsored Pacer
-- YTU Google DSC Core Team Member (2021- 2022)
-- YTU SKYLab AI R&D Team Member (2021 - 2023)
-- YTU IEEE CASMarine Software Developer Team Member (2017- 2019)
+My research focuses on understanding the geometry and dynamics of memory in both biological and artificial systems. I am particularly interested in the intersection of machine learning, neuroscience, and dynamical systems theory.
+
+Throughout my academic journey, I've had the opportunity to collaborate with researchers at several institutions, including Stanford University, Harvard University, UCSB, Virginia Tech, Washington University in St. Louis, and the University of Milan. I feel incredibly fortunate to have met and worked with such brilliant, kind, and passionate people from around the world.
+
+Beyond academics, I am deeply passionate about long-distance running, cinematography, photography, poetry, and music of all kinds. I'm currently learning to play the piano and always looking for new ways to express myself creatively.
